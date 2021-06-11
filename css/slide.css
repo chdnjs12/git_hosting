@@ -1,0 +1,5 @@
+#slide>#slide-contents>img {
+    width: 800px;
+    height: 350px;
+    display: block;
+}
